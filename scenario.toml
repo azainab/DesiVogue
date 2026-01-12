@@ -11,4 +11,4 @@ env = { OPENAI_API_KEY = "${OPENAI_API_KEY}"}
 # Add your assessment config here
 
 domain = "Recommendation System"
-num_Tasks = 3
+num_Tasks = 2
